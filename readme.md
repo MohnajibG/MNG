@@ -1,4 +1,3 @@
-# Bonjour, je suis MnajibG 👋
 
 Je suis un développeur web junior passionné, créatif et perfectionniste. Toujours en quête de nouvelles connaissances et d'outils pour perfectionner mes projets. Je suis formé en développement fullstack et j'adore relever des défis !
 
@@ -22,9 +21,6 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 - ⚙️ **Git & GitHub** : Gestion de version et collaboration sur des projets open-source.
 - 🔧 **npm & Yarn** : Gestion des dépendances et des scripts de développement.
-- 💡 **PostgreSQL** : Gestion de base de données relationnelle.
-- 🌱 **Docker** : Conteneurisation des applications pour un déploiement simplifié.
-- 🖥️ **Django** (expérience de base) : Framework Python pour le backend.
 
 ## 📊 Stats GitHub
 
@@ -39,9 +35,6 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 ## 🔨 Projets récents
 
-### [Bridges - Application web pour une borne de commande](https://github.com/MnajibG/Bridges)
-
-Développement d'une application web avec React, Node.js, Express, et MongoDB pour une borne de commande de restaurant.
 
 ### [SOOK - Plateforme de e-commerce](https://github.com/MnajibG/SOOK)
 

@@ -1,3 +1,4 @@
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 Je suis un développeur web junior passionné, créatif et perfectionniste. Toujours en quête de nouvelles connaissances et d'outils pour perfectionner mes projets. Je suis formé en développement fullstack et j'adore relever des défis !
 

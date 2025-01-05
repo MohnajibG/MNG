@@ -3,19 +3,7 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 ## 🚀 Compétences
 
-### Frontend
-
-- 💻 **React** : Développement d'applications web dynamiques et réactives.
-- 🎨 **HTML/CSS** : Création de pages web élégantes et accessibles.
-- 🔧 **JavaScript** : Programmation orientée objet et fonctionnelle.
-- ⚡ **TypeScript** : Développement avec une typage statique pour une meilleure maintenabilité.
-- 📱 **Responsive Design** : Conception de sites web adaptatifs pour tous les types d'appareils.
-
-### Backend
-
-- 🌐 **Node.js** : Serveurs web performants avec Express.
-- 🛢️ **MongoDB** : Base de données NoSQL flexible.
-- - ⚡ **Express** : Framework minimaliste pour créer des applications web avec Node.js.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,expressjs)](https://skillicons.dev)
 
 
 ### Outils & Workflow

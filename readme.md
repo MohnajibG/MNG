@@ -15,6 +15,8 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 - 🌐 **Node.js** : Serveurs web performants avec Express.
 - 🛢️ **MongoDB** : Base de données NoSQL flexible.
+- - ⚡ **Express** : Framework minimaliste pour créer des applications web avec Node.js.
+
 
 ### Outils & Workflow
 

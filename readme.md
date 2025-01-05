@@ -23,7 +23,7 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 ## 📊 Stats GitHub
 
-![MnajibG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MnajibG&show_icons=true&theme=radical)
+![MnajibG's GitHub stats](https://github-readme-stats.vercel.app/api?username=MnajibG&show_icons=true&theme=radical&random=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MnajibG&layout=compact)
 

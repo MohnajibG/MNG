@@ -3,7 +3,7 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 ## 🚀 Compétences
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,expressjs,react,reactnative)](https://skillicons.dev)
 
 
 ### Outils & Workflow

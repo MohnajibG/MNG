@@ -27,7 +27,7 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 ## 🔗 Connecte-toi avec moi
 
-- 📧 Email : [ton.email@exemple.com](mailto:ton.email@exemple.com)
+- 📧 Email : [ton.email@exemple.com](mailto:guerchaoui7@gmail.com)
 - 🌐 Portfolio : [tonportfolio.com](https://tonportfolio.com)
 - 🐦 Twitter : [@tonTwitter](https://twitter.com/tonTwitter)
 - 🌍 LinkedIn : [MnajibG](https://www.linkedin.com/in/MnajibG)

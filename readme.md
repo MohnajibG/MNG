@@ -15,7 +15,6 @@ Je suis un développeur web junior passionné, créatif et perfectionniste. Touj
 
 - 🌐 **Node.js** : Serveurs web performants avec Express.
 - 🛢️ **MongoDB** : Base de données NoSQL flexible.
-- 🔒 **JWT & OAuth** : Gestion de l'authentification sécurisée.
 
 ### Outils & Workflow
 
